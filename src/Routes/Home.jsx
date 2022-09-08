@@ -4,7 +4,7 @@ import Layout from "../Layout/Layout";
 const Home = () => {
   return (
     <Layout>
-      <div className="bg-gray-500">Home</div>
+      <div className="">Home</div>
     </Layout>
   );
 };
